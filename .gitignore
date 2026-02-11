@@ -1,0 +1,19 @@
+ 
+# Ambiente virtual
+venv/
+../venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Arquivos exportados
+exports/
+dados_exportados_*.xlsx
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
